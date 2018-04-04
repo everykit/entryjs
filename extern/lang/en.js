@@ -1675,7 +1675,10 @@ Lang.Blocks = {
     "FUNBOARD_touchbt_space": "   E",
     "FUNBOARD_touchbt_up": "red(A)",
     "funboard_dotmatrix_set_off": "off",
-    "funboard_dotmatrix_set_on": "on"
+    "funboard_dotmatrix_set_on": "on",
+    "everykit_led_red":"red",
+    "everykit_led_blue":"blue",
+    "everykit_led_green":"green"
 };
 Lang.Buttons = {
     "lesson_list": "List",

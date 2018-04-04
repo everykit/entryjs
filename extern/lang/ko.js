@@ -1675,7 +1675,13 @@ Lang.Blocks = {
     "FUNBOARD_touchbt_space": "   E",
     "FUNBOARD_touchbt_up": "빨강(A)",
     "funboard_dotmatrix_set_off": "끄기",
-    "funboard_dotmatrix_set_on": "켜기"
+    "funboard_dotmatrix_set_on": "켜기",
+    "everykit_led_red":"빨강",
+    "everykit_led_blue":"파랑",
+    "everykit_led_green":"초록",
+    "everykit_smartplug_on":"켜기",
+    "everykit_smartplug_off":"끄기"
+
 };
 Lang.Buttons = {
     "lesson_list": "강의 목록",
